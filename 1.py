@@ -81,7 +81,8 @@ if __name__ == "__main__":
             webbrowser.open("google.com")
 
         elif 'open stackoverflow' in query:
-            webbrowser.open("stackoverflow.com")   
+            webbrowser.open("stackoverflow.com")
+               
         elif 'open codechef' in query:
             webbrowser.open("codechef.com")   
 
@@ -111,4 +112,4 @@ if __name__ == "__main__":
                 speak("Sorry my friend !. I am not able to send this email")    
                 
         
-            
+            priyam
